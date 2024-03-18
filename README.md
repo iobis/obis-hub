@@ -1,6 +1,6 @@
 # OBIS JupyterHub
 
-Repository for the administration of the OBIS JupyterHub and associated products
+Repository for the administration of the OBIS JupyterHub and associated products. The technical implementation of the hub is managed [here](https://github.com/iobis/jupyterhub-deploy-docker).
 
 ## OBIS data products
 
